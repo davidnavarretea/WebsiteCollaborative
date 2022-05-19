@@ -71,3 +71,29 @@
     margin-right: 1rem;
     background-image: url(../img/elon.webp);
 }
+/* Portfolio */
+.wrapperportfolio {
+    display: flex;
+    justify-content: center;
+}
+.portfoliocontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 75%;
+    height: 93.1vh;
+}
+.portfolio-card-title {
+    color: #3F77B1;
+}
+.cardreset {
+    border: 0;
+    margin-right: 2rem;
+}
+.card-body-reset {
+    padding-left: 0;
+}
+.cards {
+    display: flex;
+    margin-top: 2rem;
+}
