@@ -5,10 +5,10 @@
 /* Index */
 /* Background */
 .fondo {
-  background-image: url(../img/background_index.webp);
-  background-size: cover;
-  background-position: top;
-  height: 93.1vh;
+    background-image: url(../img/background_index.webp);
+    background-size: cover;
+    background-position: top;
+    height: 93.5vh;
 }
 /* Text */
 .textcontainer {
@@ -36,9 +36,9 @@
 }
 /* About */
 .about {
-  height: 93.1vh;
-  display: flex;
-  justify-content: center;
+    height: 93.5vh;;
+    display: flex;
+    justify-content: center;
 }
 .textandimage {
   display: flex;
@@ -77,11 +77,11 @@
   justify-content: center;
 }
 .portfoliocontent {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  max-width: 75%;
-  height: 93.1vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 75%;
+    height: 93.5vh;
 }
 .portfolio-card-title {
   color: #3f77b1;
