@@ -1,6 +1,6 @@
 /* Removed unnecessary padding */
 .nopadding {
-    padding: 0;
+  padding: 0;
 }
 /* Index */
 /* Background */
@@ -12,27 +12,27 @@
 }
 /* Text */
 .textcontainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .h1container {
-    width: 100%;
-    text-align: center;
-    margin-top: 12vh;
-    background-color: white;
+  width: 100%;
+  text-align: center;
+  margin-top: 12vh;
+  background-color: white;
 }
 .h2container {
-    width: 100%;
-    text-align: center;
-    margin-top: 2vh;
-    background-color: white;
+  width: 100%;
+  text-align: center;
+  margin-top: 2vh;
+  background-color: white;
 }
 .h1size {
-    font-size: 15vh;
+  font-size: 15vh;
 }
 .h2size {
-    font-size: 10vh;
+  font-size: 10vh;
 }
 /* About */
 .about {
@@ -41,40 +41,40 @@
     justify-content: center;
 }
 .textandimage {
-    display: flex;
-    width: 75%;
-    align-items: center;
+  display: flex;
+  width: 75%;
+  align-items: center;
 }
 .imagecontainer {
-    background-image: url(../img/ww.webp);
-    background-size: cover;
-    height: 23rem;
-    min-width: 23rem;
-    margin-left: 1rem;
-    border-radius: 50%;
+  background-image: url(../img/ww.webp);
+  background-size: cover;
+  height: 23rem;
+  min-width: 23rem;
+  margin-left: 1rem;
+  border-radius: 50%;
 }
 .greytext {
-    color: #787878;
+  color: #787878;
 }
 .paragraph {
-    font-size: large;
+  font-size: large;
 }
 .tcontainer {
-    align-items:initial;
+  align-items: initial;
 }
 /* Services */
 .textandimageservices {
-    flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .imagecontainer2 {
-    margin-left: 0;
-    margin-right: 1rem;
-    background-image: url(../img/elon.webp);
+  margin-left: 0;
+  margin-right: 1rem;
+  background-image: url(../img/elon.webp);
 }
 /* Portfolio */
 .wrapperportfolio {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 .portfoliocontent {
     display: flex;
@@ -84,16 +84,16 @@
     height: 93.5vh;
 }
 .portfolio-card-title {
-    color: #3F77B1;
+  color: #3f77b1;
 }
 .cardreset {
-    border: 0;
-    margin-right: 2rem;
+  border: 0;
+  margin-right: 2rem;
 }
 .card-body-reset {
-    padding-left: 0;
+  padding-left: 0;
 }
 .cards {
-    display: flex;
-    margin-top: 2rem;
+  display: flex;
+  margin-top: 2rem;
 }
